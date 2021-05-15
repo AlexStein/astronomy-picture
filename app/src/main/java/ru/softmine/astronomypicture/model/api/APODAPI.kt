@@ -13,6 +13,6 @@ interface APODAPI {
     @GET("planetary/apod")
     fun getPictureByDate(
         @Query("api_key") apiKey: String,
-        @Query("date") date: String
+        @Query("date") date: String?
     ): Call<APODResponseData>
 }

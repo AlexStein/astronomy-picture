@@ -10,4 +10,11 @@
     <string name="loading_message">Loading</string>
     <string name="no_api_key_error">You need API key</string>
     <string name="undefined_error_message">Unidentified error</string>
+    <string name="favorite">Favourite</string>
+    <string name="float_button_description">Float button</string>
+    <string name="sample_description">Here would be some description</string>
+    <string name="choice_two_days_ago">Two days ago</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="settings_dark_theme_label">Dark Theme</string>
 </resources>
